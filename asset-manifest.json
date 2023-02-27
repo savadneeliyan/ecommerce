@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/savadneeliyan/ecommerce/static/css/main.75caa1a1.css",
+    "main.js": "/savadneeliyan/ecommerce/static/js/main.f5aed6f9.js",
+    "index.html": "/savadneeliyan/ecommerce/index.html",
+    "main.75caa1a1.css.map": "/savadneeliyan/ecommerce/static/css/main.75caa1a1.css.map",
+    "main.f5aed6f9.js.map": "/savadneeliyan/ecommerce/static/js/main.f5aed6f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75caa1a1.css",
+    "static/js/main.f5aed6f9.js"
+  ]
+}
