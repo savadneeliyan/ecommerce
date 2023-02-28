@@ -31,20 +31,20 @@ function Navbar() {
           </div>
         </div>
         <div className="center">
-          <Link to="/">HALLOHOM</Link> 
+          <Link to="/ecommerce">HALLOHOM</Link> 
         </div>
         <div className="right"> 
           <div className="center">
-            <Link to="/">Home</Link> 
+            <Link to="/ecommerce">Home</Link> 
           </div>
           <div className="center">
-            <Link to="/">About</Link> 
+            <Link to="/ecommerce">About</Link> 
           </div>
           <div className="center">
-            <Link to="/">Contact</Link> 
+            <Link to="/ecommerce">Contact</Link> 
           </div>
           <div className="center">
-            <Link to="/">Stores</Link> 
+            <Link to="/ecommerce">Stores</Link> 
           </div>
           <div className="icons">
             <SearchIcon/>
