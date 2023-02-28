@@ -1,0 +1,22 @@
+.footer-item{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.footer-item a{
+    text-align: center;
+}
+.footer-item h1{
+    font-size: 30px;
+    text-align: center;
+}
+.top{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 2fr;
+    gap: 20px;
+}
+.wrapper{
+    max-width: 1200px;
+    margin: auto;
+}
